@@ -1,6 +1,3 @@
-# CS11-Project
-**[Archive].** *Made on 1/1/2024. This C program was made for CS 11.*
-
 ## all alone.
 > Welcome to all alone.<br>
 > all alone. is a short text-based horror game, where the story progresses depending on your actions.<br>
@@ -9,6 +6,9 @@
 The game has 3 different endings, try to get them all!<br>
 **Caution! The game may be a bit janky! Problems will be fixed in the future.**
 
+### Description
+*Originally made on 1/1/2024.* <br>
+This program was made as a partial requirement for CS 11, entirely in C.
 
 ### Basic Commands
 - 'Look' - Describes the current location or specific object
